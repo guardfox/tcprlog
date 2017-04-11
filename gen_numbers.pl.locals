@@ -1,0 +1,6 @@
+$hosts_allow{"127.0.0.1"} = 1;
+$files{"/var/log/messages"} = "/var/log/messages.*[0-9]";
+#$bind_port = 100;
+#$bind_addr = "10.4.3.5";
+
+
